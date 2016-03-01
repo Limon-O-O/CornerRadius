@@ -1,0 +1,13 @@
+PODS:
+  - Kingfisher (2.0.4)
+  - Navi (0.3.9)
+
+DEPENDENCIES:
+  - Kingfisher
+  - Navi (~> 0.3.9)
+
+SPEC CHECKSUMS:
+  Kingfisher: 8f1ec2c067ade2c549a1a594379b69c4b1ff81ab
+  Navi: 24f5c81aeb46b89d27168ec1d459581230ae2675
+
+COCOAPODS: 0.39.0
